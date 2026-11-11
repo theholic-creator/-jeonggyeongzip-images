@@ -1,0 +1,53 @@
+{
+  "fixture_only": true,
+  "publishable": false,
+  "source_date": "2026-11-06",
+  "purpose": "Direct local-file to GitHub connector binary transport regression. Never current editorial content.",
+  "images": [
+    {
+      "filename": "visual-1.png",
+      "bytes": 1699520,
+      "sha256": "64efa2ea59012ff7f892296d569cc13a4e9725dd347ce51c6c7bec805cade9d1",
+      "source_sha256": "64efa2ea59012ff7f892296d569cc13a4e9725dd347ce51c6c7bec805cade9d1",
+      "rights": "ai-generated",
+      "credit": "Archived ChatGPT AI originals 2026-11-06; transport test only, never republish",
+      "fixture_only": true
+    },
+    {
+      "filename": "visual-2.png",
+      "bytes": 1937233,
+      "sha256": "1ecbdeb821a5821556373fb2e5a54b2746d8a258132151ac272886f3795e8fa8",
+      "source_sha256": "1ecbdeb821a5821556373fb2e5a54b2746d8a258132151ac272886f3795e8fa8",
+      "rights": "ai-generated",
+      "credit": "Archived ChatGPT AI originals 2026-11-06; transport test only, never republish",
+      "fixture_only": true
+    },
+    {
+      "filename": "visual-3.png",
+      "bytes": 1751623,
+      "sha256": "ef4c64abeada181a8688a3886c828e8167e4f92b93f6397f517d0596bac69acd",
+      "source_sha256": "ef4c64abeada181a8688a3886c828e8167e4f92b93f6397f517d0596bac69acd",
+      "rights": "ai-generated",
+      "credit": "Archived ChatGPT AI originals 2026-11-06; transport test only, never republish",
+      "fixture_only": true
+    },
+    {
+      "filename": "visual-4.png",
+      "bytes": 1784280,
+      "sha256": "dba6adddc68730b1de6efde8638298fbe12b8cb286390242b7882ffae10781d8",
+      "source_sha256": "dba6adddc68730b1de6efde8638298fbe12b8cb286390242b7882ffae10781d8",
+      "rights": "ai-generated",
+      "credit": "Archived ChatGPT AI originals 2026-11-06; transport test only, never republish",
+      "fixture_only": true
+    },
+    {
+      "filename": "visual-5.png",
+      "bytes": 1905919,
+      "sha256": "2ccf8389e5ef1a5b856c1490a796782563ddc199313eb2e6e234ab2c9005aaa4",
+      "source_sha256": "2ccf8389e5ef1a5b856c1490a796782563ddc199313eb2e6e234ab2c9005aaa4",
+      "rights": "ai-generated",
+      "credit": "Archived ChatGPT AI originals 2026-11-06; transport test only, never republish",
+      "fixture_only": true
+    }
+  ]
+}
